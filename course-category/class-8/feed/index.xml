@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CLASS 8 &#8211; My Class</title>
+	<atom:link href="https://mihirinfotech.github.io/myclass/course-category/class-8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mihirinfotech.github.io/myclass</link>
+	<description>Best Place to educate yourself</description>
+	<lastBuildDate>Sun, 03 May 2020 12:24:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.3</generator>
+
+<image>
+	<url>https://mihirinfotech.github.io/myclass/wp-content/uploads/2020/05/cropped-logo-new-1-32x32.png</url>
+	<title>CLASS 8 &#8211; My Class</title>
+	<link>https://mihirinfotech.github.io/myclass</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SCIENCE</title>
+		<link>https://mihirinfotech.github.io/myclass/courses/science/</link>
+				<pubDate>Sun, 03 May 2020 12:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		
+		<guid isPermaLink="false">https://mihirinfotech.github.io/myclass/?post_type=courses&#038;p=9</guid>
+				<description><![CDATA[science 8 CBSE Board]]></description>
+								<content:encoded><![CDATA[<figure id="attachment_18" aria-describedby="caption-attachment-18" style="width: 300px" class="wp-caption alignnone"><img class="size-medium wp-image-18" src="https://mihirinfotech.github.io/myclass/wp-content/uploads/2020/05/agriculture-1-300x200.jpg" alt="" width="300" height="200" srcset="https://mihirinfotech.github.io/myclass/wp-content/uploads/2020/05/agriculture-1-300x200.jpg 300w, https://mihirinfotech.github.io/myclass/wp-content/uploads/2020/05/agriculture-1-1024x682.jpg 1024w, https://mihirinfotech.github.io/myclass/wp-content/uploads/2020/05/agriculture-1-768x512.jpg 768w, https://mihirinfotech.github.io/myclass/wp-content/uploads/2020/05/agriculture-1.jpg 1300w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-18" class="wp-caption-text">Concept for agritech industry showing farmer with smartphone app and graphic display with agricultural smart farm icons on a bakcground of a field of crops.</figcaption></figure>
+<p><span style="text-align: justify; color: #333333; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 'muliregular'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; background-color: #ffffff; -webkit-text-stroke-width: 0px;">CBSE NCERT Solutions for Class 8 Science Chapter 1 Crop Production and Management is given below to download free in PDF. Video Format solution is also available for free. Download 8 Science App for offline use. All the solutions are updated for new session 2020-21.</span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
